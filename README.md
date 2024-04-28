@@ -1,1 +1,1 @@
-A simple quote scrapper app with selenium
+A simple quote scrapper app completed with Python and BeautifulSoup
